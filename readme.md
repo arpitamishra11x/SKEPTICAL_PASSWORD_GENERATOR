@@ -1,4 +1,4 @@
-# 🔐 Skeptical Password Generator !
+# 🔐 Skeptical Password Generator !!
 
 A security-focused password generator that does not trust randomness alone.
 
