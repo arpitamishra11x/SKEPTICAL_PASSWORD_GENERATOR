@@ -10,7 +10,7 @@ This project generates passwords only after passing
 
 ---
 
-## 🚀 Features !
+## 🚀 Features !!
 - Cryptographically secure randomness (`secrets`)
 - Entropy-based validation
 - Rejects weak or predictable passwords
