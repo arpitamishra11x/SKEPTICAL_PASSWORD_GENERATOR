@@ -1,4 +1,4 @@
-# 🔐 Skeptical Password Generator 
+# 🔐 Skeptical Password Generator !!
 
 A security-focused password generator that does not trust randomness alone.
 
@@ -18,6 +18,6 @@ This project generates passwords only after passing
 
 ---
 
-## ▶️ How to Run !
+## ▶️ How to Run !!
 ```bash
 python main.py
