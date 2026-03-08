@@ -21,3 +21,4 @@ This project generates passwords only after passing
 ##    ▶️ How to Run !
 ```bash
 python main.py
+......................................................
